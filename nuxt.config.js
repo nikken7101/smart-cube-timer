@@ -54,7 +54,7 @@ module.exports = {
 
 	modules: [
 		['@nuxtjs/google-analytics', {
-			id: 'UA-43802516-6',
+			id: 'UA-125249716-1',
 			debug: {
 				sendHitTask: process.env.NODE_ENV === 'production',
 			},
